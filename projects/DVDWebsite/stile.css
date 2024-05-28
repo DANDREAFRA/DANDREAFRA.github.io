@@ -1,0 +1,72 @@
+body{
+text-align:center;
+background-color:yellow !important;
+
+}
+
+h1 {
+color:green;
+font-family: Arial, sans-serif;
+font-size:300%;
+}
+
+h4 {
+color:green;
+font-family: Arial, sans-serif;
+font-size:150%;
+}
+
+p {
+color:purple;
+font-family: Verdana, sans-serif;
+font-size:115%;
+}
+
+
+h2 {
+font-family: courier new, serif !important;
+font-size:150%;
+color:white !important;
+}
+
+h3{
+font-family: CenturyGothic, sans-serif;
+font-size:110%;
+text-align:center;
+color:white !important;
+}
+
+ul {
+font-family: Verdana, sans-serif;
+font-size:135%;
+}
+
+hr {
+background-color:black;
+}
+
+a {
+font-size:200%;
+}
+
+ol {
+color:white !important;
+font-family: Verdana, sans-serif;
+font-size:100%
+}
+
+table {
+background-color:white;
+border:7px solid green;
+}
+
+h5 {
+font-family: Verdana, sans-serif;
+font-size:90%;
+color:white !important;
+}
+
+li {
+text-align:left;
+}
+
